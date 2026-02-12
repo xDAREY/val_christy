@@ -9,7 +9,7 @@ const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-playfa
 export const metadata: Metadata = {
   title: 'Christianah.',
   description: 'A Valentine\'s Day proposal',
-  generator: 'v0.app',
+  // generator: 'v0.app',
 }
 
 export const viewport: Viewport = {
