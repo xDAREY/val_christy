@@ -23,26 +23,35 @@ export function Page2({ onNext }: Page2Props) {
 
           <div className="space-y-4 text-foreground/80 leading-relaxed">
             <p>
-              We matched on Bumble last February. It started light. Easy. Just two people talking without pressure and seeing where it could go.
+              We matched on Bumble last February. It started simple. Just two people talking, laughing, figuring each other out without pressure.
             </p>
 
             <p>
-              Around May, we decided to take it more seriously. We tried. But over time, I started feeling like the effort was uneven. It felt like one person wanted it a little more than the other, and I have always believed that if something is going to work, the energy has to meet in the middle.
+              Around May, we tried to take it more seriously. And I meant it. But over time, I started feeling like the effort was uneven. It felt like one person was leaning in more than the other, and I have always believed that something real requires both people choosing it fully.
             </p>
 
             <p>
-              So I took a step back. Not out of anger, but out of self respect. I needed to see whether what we were building had equal weight on both sides. When things stayed the same, I accepted it for what it was and let it breathe.
+              So I stepped back. Not out of pride. Not out of anger. Just out of self respect. I needed to see if what we had would naturally meet me halfway. When it did not shift, I accepted it quietly.
             </p>
 
             <p>
-              This January, I reached out again. I had relocated closer, and I realized distance might have been carrying more blame than it deserved. Sometimes it is easy to call something long distance when the real gap is emotional availability.
+              In January, I reached out again. I had relocated closer, and I realized maybe distance had been carrying more blame than it deserved. Sometimes it is easy to call something long distance when what we are really testing is consistency.
             </p>
 
             <p>
-              The late night conversations are not the same now. You are building something new with baking, finding joy in creating something tangible. I respect that. Growth looks different on everyone.
+              The late night talks are not what they used to be. You are building something new with baking, finding joy in creating something tangible. I see that. I respect it.
             </p>
+
             <p>
-              But even with the shifts, I still see the girl who made me laugh, who challenged my perspective, who made February mean something unexpected last year.
+              There is something small I have come to understand about myself. The little things matter to me. A random picture. A short video. Something unprompted that says, “I thought of you.” It may seem small, but to me it is connection. It is effort. It is reassurance.
+            </p>
+
+            <p>
+              When those moments are missing, it does not make me angry. It just makes me aware. I am not asking for grand gestures. I am asking for intentional ones. I believe the smallest actions often carry the loudest meaning.
+            </p>
+
+            <p>
+              And even with all the shifts, I still see the girl who makes conversations interesting. The one I still genuinely enjoy.
             </p>
 
             <p className="pt-4 font-playfair text-lg">
