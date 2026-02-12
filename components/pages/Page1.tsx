@@ -11,7 +11,7 @@ export function Page1({ onNext }: Page1Props) {
 
   useEffect(() => {
     const texts = [
-      'Christianah.',
+      'Christiana with the "H".',
       "It's February again.",
       'Funny how we met around this time last year.'
     ];
